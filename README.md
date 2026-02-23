@@ -1,6 +1,6 @@
 ## Uber-Data-Analysis-Project
 
-# DAHBOARD 1: OVERVIEW ANALYSIS
+# DASHBOARD 1: OVERVIEW ANALYSIS
 Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
 KPI’s
 1.	Total Bookings – How many trips were booked over a given period?
@@ -33,7 +33,7 @@ o	Data source and refresh frequency.
 •	Use Power Automate or built-in Power BI Export functionality.
 •	Enables users to analyse raw data outside Power BI if needed.
 
-# DAHBOARD 2: TIME ANALYSIS
+# DASHBOARD 2: TIME ANALYSIS
 To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. This dashboard will help in optimizing operations, pricing, and driver availability.
 Global Dynamic Measure (Filters All Charts)
 A measure selector will be created for:
@@ -41,5 +41,5 @@ A measure selector will be created for:
 ✔ Total Booking Value
 ✔ Total Trip Distance
 
-# DAHBOARD 3: DETAILS TAB
+# DASHBOARD 3: DETAILS TAB
 To provide in-depth insights and allow users to explore granular data, a Grid Tab will be created. This tab will enable drill-through functionality, allowing users to access detailed records based on selections made in other dashboards.
